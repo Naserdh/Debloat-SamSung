@@ -1,6 +1,6 @@
 # Debloat Samsung
 # How to Use debloat
-# Brevent (NO ROOT AND ROOT)
+# [Brevent (NO ROOT AND ROOT)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 - Click on code -> downloads
 - unzip Debloat-SamSung-main.zip
 - Please Copy Debloat-SamSung-main Then paste it outside the downloads section.
