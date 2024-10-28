@@ -2,6 +2,11 @@ echo " Restore Package"
 echo ""
 echo " Telegram : @Lusaraemd"
 sleep 2 
+cmd package install-existing  com.google.android.projection.gearhead
+cmd package install-existing  com.google.android.apps.restore
+cmd package install-existing   com.samsung.android.aware.service
+cmd package install-existing  com.android.wallpaper.livepicker
+cmd package install-existing  com.samsung.android.mapsagent
 cmd package install-existing com.google.android.syncadap
 cmd package install-existing  com.google.android.tts
 cmd package install-existing  com.samsung.android.dynamic
