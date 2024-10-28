@@ -8,8 +8,14 @@
 - `sh /storage/emulated/0/Debloat-SamSung-main/debloat.sh`
 - `sh /storage/emulated/0/Debloat-SamSung-main/RestorePackage.sh`
 # Termux ( Root )
-`pkg install git`
-`pkg install tsu`
+```
+pkg install git
+pkg install tsu
+git clone https://github.com/Lusaramdc/Debloat-SamSung
+cd Debloat-SamSung
+su -c sh debloat.sh
+su -c sh RestorePackage.sh
+```
  
   
   
