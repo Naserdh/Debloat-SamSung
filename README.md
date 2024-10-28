@@ -4,8 +4,8 @@
 - Scroll down and select Release then select > debloat.sh --- RestorePackage.sh to download
 - Please Copy Debloat.sh -- RestorePackage.sh Then paste it outside the downloads section.
 - Go to Brevent and select ☰ -> exe command
-- `sh /storage/emulated/0/Debloat-SamSung-main/debloat.sh`
-- `sh /storage/emulated/0/Debloat-SamSung-main/RestorePackage.sh`
+- `sh /storage/emulated/0/debloat.sh`
+- `sh /storage/emulated/0/RestorePackage.sh`
 # [Termux ( Root )](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk)
 ```
 pkg install git
