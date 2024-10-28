@@ -1,7 +1,7 @@
 # Debloat Samsung
 # How to Use debloat
 # [Brevent (NO ROOT AND ROOT)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
-- Click on code -> downloads
+- Scroll down and select Release then select > debloat.sh --- RestorePackage.sh to download
 - unzip Debloat-SamSung-main.zip
 - Please Copy Debloat-SamSung-main Then paste it outside the downloads section.
 - Go to Brevent and select ☰ -> exe command
