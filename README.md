@@ -19,9 +19,9 @@ or
 ```
 pkg install wget
 pkg install tsu
-wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsungone/debloat.sh
+wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsung1.4one/debloat.sh
 su -c sh debloat.sh
-wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsungone/RestorePackage.sh
+wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsung1.4one/RestorePackage.sh
 su -c sh RestorePackage.sh
 ```
 # Thank you for using debloat
