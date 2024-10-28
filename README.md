@@ -3,7 +3,7 @@
 # [Brevent (NO ROOT AND ROOT)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
 - Scroll down and select Release then select > debloat.sh --- RestorePackage.sh to download
 - unzip Debloat-SamSung-main.zip
-- Please Copy Debloat-SamSung-main Then paste it outside the downloads section.
+- Please Copy Debloat.sh -- RestorePackage.sh Then paste it outside the downloads section.
 - Go to Brevent and select ☰ -> exe command
 - `sh /storage/emulated/0/Debloat-SamSung-main/debloat.sh`
 - `sh /storage/emulated/0/Debloat-SamSung-main/RestorePackage.sh`
