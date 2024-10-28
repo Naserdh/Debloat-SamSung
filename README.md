@@ -1,1 +1,11 @@
-<h1 align="center"> Debloat SamSung</h1>
+# Debloat Samsung
+# How to Use debloat
+# Brevent (NO ROOT AND ROOT)
+- Click on code -> downloads
+- unzip Debloat-SamSung-main.zip
+- Please Copy Debloat-SamSung-main Then paste it outside the downloads section.
+- Go to Brevent and select ☰ -> exe command
+- `sh /storage/emulated/0/Debloat-SamSung-main/debloat.sh`
+- `sh /storage/emulated/0/Debloat-SamSung-main/RestorePackage.sh`
+  
+  
