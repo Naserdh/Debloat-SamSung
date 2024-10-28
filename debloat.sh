@@ -4,6 +4,11 @@ echo " Debloat By Lusara"
 sleep 3
 echo " Telegram : @Lusaraemd "
 sleep 3
+pm uninstall --user 0 com.google.android.projection.gearhead
+pm uninstall --user 0 com.google.android.apps.restore
+pm uninstall --user 0  com.samsung.android.aware.service
+pm uninstall --user 0 com.android.wallpaper.livepicker
+pm uninstall --user 0 com.samsung.android.mapsagent
 pm uninstall --user 0 com.google.android.syncadap
 pm uninstall --user 0  com.google.android.tts
 pm uninstall --user 0  com.samsung.android.dynamic
