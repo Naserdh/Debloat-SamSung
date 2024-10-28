@@ -19,6 +19,7 @@ su -c sh RestorePackage.sh
 or
 ```
 pkg install wget
+pkg install tsu
 wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsungine/debloat.sh
 su -c sh debloat.sh
 wget https://github.com/Lusaramdc/Debloat-SamSung/releases/download/Debloatsamsungine/RestorePackage.sh
