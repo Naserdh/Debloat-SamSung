@@ -7,5 +7,9 @@
 - Go to Brevent and select ☰ -> exe command
 - `sh /storage/emulated/0/Debloat-SamSung-main/debloat.sh`
 - `sh /storage/emulated/0/Debloat-SamSung-main/RestorePackage.sh`
+# Termux ( Root )
+`pkg install git`
+`pkg install tsu`
+ 
   
   
