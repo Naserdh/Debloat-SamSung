@@ -220,17 +220,7 @@ pm uninstall --user 0 com.pandora.android
 pm uninstall --user 0 com.sec.penup 
 pm uninstall --user 0 com.wb.goog.got.conquest 
 pm uninstall --user 0 com.foxnextgames.m3 
-pm uninstall --user 0 com.microsoft.skydrive 
-pm uninstall --user 0 com.claromusica 
-pm uninstall --user 0 com.clarovideo 
-pm uninstall --user 0 com.clarocloud 
-pm uninstall --user 0 com.claroshop 
-pm uninstall --user 0 com.claropay 
-pm uninstall --user 0 com.claro.tv 
-pm uninstall --user 0 com.claro.empresas 
-pm uninstall --user 0 com.claro.assistant 
-pm uninstall --user 0 com.claro.photoeditor 
-pm uninstall --user 0 com.claro.store 
+pm uninstall --user 0 com.microsoft.skydrive  
 echo " Thanks for Using debloat"
 sleep 2
 echo ""
