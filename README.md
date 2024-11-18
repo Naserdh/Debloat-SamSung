@@ -1,12 +1,12 @@
 # Debloat Samsung
 # How to Use debloat
-# [Brevent (NO ROOT AND ROOT)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
+# [Brevent ](https://play.google.com/store/apps/details?id=me.piebridge.brevent)[NO Root And Root]
 - Scroll down and select Release then select > debloat.sh --- RestorePackage.sh to download
 - Please Copy Debloat.sh -- RestorePackage.sh Then paste it outside the downloads section.
 - Go to Brevent and select ☰ -> exe command
 - `sh /storage/emulated/0/debloat.sh`
 - `sh /storage/emulated/0/RestorePackage.sh`
-# [Termux ( Root )](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk)
+# [Termux](https://github.com/termux/termux-app/releases/download/v0.118.1/termux-app_v0.118.1+github-debug_universal.apk)[Root)
 ```
 pkg install git
 pkg install tsu
