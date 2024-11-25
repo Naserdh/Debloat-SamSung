@@ -1,9 +1,22 @@
 echo "Welcome to debloat"
 echo ""
-echo " Debloat By Lusara"
+echo "╔═══╦═══╦══╗╔╗──╔═══╦═══╦════╗"
+sleep 0.1
+echo "╚╗╔╗║╔══╣╔╗║║║──║╔═╗║╔═╗║╔╗╔╗║"
+sleep 0.1
+echo "─║║║║╚══╣╚╝╚╣║──║║─║║║─║╠╝║║╚╝"
+sleep 0.1
+echo "─║║║║╔══╣╔═╗║║─╔╣║─║║╚═╝║─║║"
+sleep 0.1
+echo "╔╝╚╝║╚══╣╚═╝║╚═╝║╚═╝║╔═╗║─║║"
+sleep 0.1
+echo "╚═══╩═══╩═══╩═══╩═══╩╝─╚╝─╚╝"
+echo 0.6
+echo " Debloat SAMSUNG"
 sleep 3
-echo " Telegram : @Lusaraemd "
+echo -e $M "Github : $I https://github.com/Naserdh"
 sleep 3
+#Delete App
 pm uninstall --user 0 com.google.android.projection.gearhead
 pm uninstall --user 0 com.google.android.apps.restore
 pm uninstall --user 0  com.samsung.android.aware.service
@@ -220,10 +233,13 @@ pm uninstall --user 0 com.pandora.android
 pm uninstall --user 0 com.sec.penup 
 pm uninstall --user 0 com.wb.goog.got.conquest 
 pm uninstall --user 0 com.foxnextgames.m3 
-pm uninstall --user 0 com.microsoft.skydrive  
+pm uninstall --user 0 com.microsoft.skydrive
 echo " Thanks for Using debloat"
 sleep 2
 echo ""
 echo "I will update new packages to optimize the experience."
 echo " Goodbye"
 sleep 2
+M="\e[31m"
+I=="\e[32m"
+
