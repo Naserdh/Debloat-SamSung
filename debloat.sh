@@ -1,4 +1,3 @@
-echo "Welcome to debloat"
 echo ""
 echo "╔═══╦═══╦══╗╔╗──╔═══╦═══╦════╗"
 sleep 0.1
