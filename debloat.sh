@@ -1,5 +1,9 @@
+M="\e[31m"
+I=="\e[32m"
+K=="\e[34m"
+D=="\e[36m"
 echo ""
-echo "╔═══╦═══╦══╗╔╗──╔═══╦═══╦════╗"
+echo "$K╔═══╦═══╦══╗╔╗──╔═══╦═══╦════╗"
 sleep 0.1
 echo "╚╗╔╗║╔══╣╔╗║║║──║╔═╗║╔═╗║╔╗╔╗║"
 sleep 0.1
@@ -10,10 +14,9 @@ sleep 0.1
 echo "╔╝╚╝║╚══╣╚═╝║╚═╝║╚═╝║╔═╗║─║║"
 sleep 0.1
 echo "╚═══╩═══╩═══╩═══╩═══╩╝─╚╝─╚╝"
-echo 0.6
-echo " Debloat SAMSUNG"
+echo "$D Debloat SAMSUNG"
 sleep 3
-echo -e $M "Github : $I https://github.com/Naserdh"
+echo -e $M "Github $I https://github.com/Naserdh"
 sleep 3
 #Delete App
 pm uninstall --user 0 com.google.android.projection.gearhead
